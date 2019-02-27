@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Sep 20 20:27:09 CDT 2017
+1.base=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_
+4.file=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_/resources.arsc
+1.file=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_/AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_/res/drawable/icon.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_
+3.file=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_/res/layout/face_detect_surface_view.xml
+0.file=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_/res/raw/lbpcascade_frontalface.xml
+4.base=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_

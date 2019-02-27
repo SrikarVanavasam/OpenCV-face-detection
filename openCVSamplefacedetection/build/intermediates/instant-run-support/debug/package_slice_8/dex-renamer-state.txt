@@ -1,0 +1,4 @@
+#Wed Sep 20 21:22:12 CDT 2017
+base.0=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/Users/Srikar/Desktop/face-detection/openCVSamplefacedetection/build/intermediates/transforms/dexMerger/debug/8/classes.dex
